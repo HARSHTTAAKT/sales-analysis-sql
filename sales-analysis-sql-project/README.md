@@ -50,6 +50,6 @@ superstore-sales-sql/
 
 ## 🧑‍💻 Author
 
-Created by **[Your Name]**, a data science student learning SQL through real-world datasets.  
+Created by **Harsh Taak**, a data science student learning SQL through real-world datasets.  
 🔗 [GitHub Profile](https://github.com/yourusername)
 "# sales-analysis-sql" 
